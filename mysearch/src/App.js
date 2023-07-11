@@ -9,7 +9,7 @@ function App() {
           div className="container">
           <Weather defaultCity="ibadan" />
           <footer>
-            The project was coded by <a href="mailto:judiannpraise004@gmail">Judiann Praise</a> and is {""} <a href="/">open- sourced on Github</a>
+            The project was coded by <a href="mailto:judiannpraise004@gmail">Judiann Praise</a> and is {""} <a href="https://github.com/Judiann004/my-search">open- sourced on Github</a>
           </footer>
           
           </div>
